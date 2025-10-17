@@ -563,4 +563,3 @@ jobs:
           prerelease: false
           files: |
             release_zips/*.zip
-```
